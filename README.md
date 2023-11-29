@@ -1,6 +1,6 @@
 Olá mundo :)
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando PHP e MySql
 - ⚡ Iniciante em programação
 - 📫 Entre em contato comigo: lucasevblm@gmail.com
 
