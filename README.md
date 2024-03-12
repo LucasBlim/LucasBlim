@@ -1,4 +1,4 @@
-### <h1 style="color: green;">Eaí gurizada! Eu sou o Lucas 🧉</h1>
+### <h1>Eaí gurizada! Eu sou o Lucas 🧉</h1>
 Atualmente estou super focado no estágio e principalmente nos estudos!!! Futuramente quero seguir na área como desenvolvedor mobile. É isso, foco nos estudos!!!<hr>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBlim&show_icons=true&theme=radical)
 
