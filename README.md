@@ -1,8 +1,7 @@
-Olá mundo :)
+<h1>Eaí gurizada!</h1>
+Atualmente estou super focado no estágio e principalmente nos estudos!!!
 
-- 🌱 Estudando PHP e MySql
-- ⚡ Iniciante em programação
-- 📫 Entre em contato comigo: lucasevblm@gmail.com
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 - <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
